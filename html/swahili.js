@@ -290,7 +290,7 @@ function experimentInit() {
   instr_learning_text = new visual.TextStim({
     win: psychoJS.window,
     name: 'instr_learning_text',
-    text: "We will now begin with the learning phase. \n\nPlease make sure to sort your word-cards into the study or test categories.\n\nIf you feel confident about the word and its translation, put the word in the finish pile. \n\nPlease take a moment to put your phone on Do Not Disturb or to put it away. \n\nPRESS 'Enter' TO CONTINUE",
+    text: "We will now begin with the learning phase. \n\nPlease make sure to sort your word-pairs into the STUDY or TEST piles.\n\nIf you feel confident about the word and its translation, put the word in the DONE pile. \n\nPlease take a moment to put your phone on Do Not Disturb or to put it away. \n\nPRESS 'Enter' TO CONTINUE",
     font: 'Arial',
     units: undefined, 
     pos: [0, 0], height: 0.04,  wrapWidth: undefined, ori: 0,
@@ -725,7 +725,7 @@ function experimentInit() {
   ready_to_continue = new visual.TextStim({
     win: psychoJS.window,
     name: 'ready_to_continue',
-    text: 'Participant ready to continue!',
+    text: "You will now begin the test phase of this study. Press 'enter' to continue. ",
     font: 'Arial',
     units: undefined, 
     pos: [0, 0], height: 0.1,  wrapWidth: undefined, ori: 0,
@@ -740,7 +740,7 @@ function experimentInit() {
   instr_assess_text = new visual.TextStim({
     win: psychoJS.window,
     name: 'instr_assess_text',
-    text: 'Please type in the English translation for the Swahili word in the space below. Select "enter" to move on to the next trial.',
+    text: 'Please type in the Swahili translation for the English word in the space below. You can keep all your answers all lowercase. Select "enter" to move on to the next trial.',
     font: 'Arial',
     units: undefined, 
     pos: [0, 0], height: 0.1,  wrapWidth: undefined, ori: 0,
