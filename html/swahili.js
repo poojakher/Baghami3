@@ -27,7 +27,7 @@ psychoJS.openWindow({
 
 // store info about the experiment session:
 let expName = 'swahili';  // from the Builder filename that created this script
-let expInfo = {'participant': 'name', 'session': '001'};
+let expInfo = {'participant': 'name',  'session': '001'};
 
 // schedule the experiment:
 psychoJS.schedule(psychoJS.gui.DlgFromDict({
@@ -280,7 +280,7 @@ function experimentInit() {
     win : psychoJS.window,
     name : 'instruction', units : undefined, 
     image : undefined, mask : undefined,
-    ori : 0, pos : [0, 0], size : 1,
+    ori : 0, pos : [0, 0], size :[1,0.6],
     color : new util.Color([1, 1, 1]), opacity : 1,
     flipHoriz : false, flipVert : false,
     texRes : 128, interpolate : true, depth : -20.0 
@@ -385,7 +385,7 @@ function experimentInit() {
     text: 'default text',
     font: 'Arial',
     units: undefined, 
-    pos: [(- 0.4), 0], height: 0.1,  wrapWidth: undefined, ori: 0,
+    pos: [(- 0.4), 0], height: 0.2,  wrapWidth: undefined, ori: 0,
     color: new util.Color('black'),  opacity: 1,
     depth: -8.0 
   });
@@ -396,7 +396,7 @@ function experimentInit() {
     text: 'Click on the card on the left to see a word pair. Then click on the card to the right to choose what to do with that word pair.',
     font: 'Arial',
     units: undefined, 
-    pos: [(- 0.3), 0.6], height: 0.1,  wrapWidth: undefined, ori: 0,
+    pos: [(- 0.3), 0.6], height: 0.2,  wrapWidth: undefined, ori: 0,
     color: new util.Color('white'),  opacity: 1,
     depth: -9.0 
   });
@@ -407,7 +407,7 @@ function experimentInit() {
     text: 'default text',
     font: 'Arial',
     units: undefined, 
-    pos: [0.5, 0.3], height: 0.1,  wrapWidth: undefined, ori: 0,
+    pos: [0.5, 0.3], height: 0.2,  wrapWidth: undefined, ori: 0,
     color: new util.Color('white'),  opacity: 1,
     depth: -15.0 
   });
@@ -418,7 +418,7 @@ function experimentInit() {
     text: 'default text',
     font: 'Arial',
     units: undefined, 
-    pos: [0.5, (- 0.2)], height: 0.1,  wrapWidth: undefined, ori: 0,
+    pos: [0.5, (- 0.2)], height: 0.2,  wrapWidth: undefined, ori: 0,
     color: new util.Color('white'),  opacity: 1,
     depth: -16.0 
   });
@@ -429,7 +429,7 @@ function experimentInit() {
     text: 'default text',
     font: 'Arial',
     units: undefined, 
-    pos: [0.5, (- 0.7)], height: 0.1,  wrapWidth: undefined, ori: 0,
+    pos: [0.5, (- 0.7)], height: 0.2,  wrapWidth: undefined, ori: 0,
     color: new util.Color('white'),  opacity: 1,
     depth: -17.0 
   });
@@ -440,7 +440,7 @@ function experimentInit() {
     text: 'default text',
     font: 'Arial',
     units: undefined, 
-    pos: [(- 0.4), (- 0.5)], height: 0.1,  wrapWidth: undefined, ori: 0,
+    pos: [(- 0.4), (- 0.5)], height: 0.2,  wrapWidth: undefined, ori: 0,
     color: new util.Color('white'),  opacity: 1,
     depth: -18.0 
   });
