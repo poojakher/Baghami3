@@ -270,9 +270,7 @@ function experimentInit() {
   each string in the parentheses should be a filename
   present in html/resources */
   conditions = [["cond1.jpg"],
-  ["cond2a.jpg", "cond2b.jpg"],
-  ["cond3.jpg"],
-  ["cond4a.jpg", "cond4b.jpg"]];
+  ["cond2a.jpg", "cond2b.jpg"]];
   condition = Math.floor(Math.random()*conditions.length);
   psychoJS.experiment.addData("condition", condition+1);
   
