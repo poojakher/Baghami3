@@ -394,7 +394,7 @@ function experimentInit() {
     text: 'Click on the card on the left to see a word pair. Then click on the card to the right to choose what to do with that word pair.',
     font: 'Arial',
     units: undefined, 
-    pos: [(- 0.3), 0.6], height: 0.2,  wrapWidth: undefined, ori: 0,
+    pos: [(- 0.3), 0.6], height: 0.1,  wrapWidth: undefined, ori: 0,
     color: new util.Color('white'),  opacity: 1,
     depth: -9.0 
   });
@@ -553,7 +553,7 @@ function experimentInit() {
     text: 'For the test trials, please type in the Swahili translation for the English word. Select "enter" to move on to the next trial.',
     font: 'Arial',
     units: undefined, 
-    pos: [0, 0], height: 0.2,  wrapWidth: undefined, ori: 0,
+    pos: [0, 0], height: 0.1,  wrapWidth: undefined, ori: 0,
     color: new util.Color('white'),  opacity: 1,
     depth: -1.0 
   });
