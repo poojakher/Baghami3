@@ -291,7 +291,7 @@ function experimentInit() {
     text: "We will now begin with the learning phase. \n\nPlease make sure to sort your word-pairs into the STUDY or TEST piles.\n\nIf you feel confident about the word and its translation, put the word in the DONE pile. \n\nPlease take a moment to put your phone on Do Not Disturb or to put it away. \n\nPRESS 'Enter' TO CONTINUE",
     font: 'Arial',
     units: undefined, 
-    pos: [0, 0], height: 0.04,  wrapWidth: undefined, ori: 0,
+    pos: [0, 0], height: 0.06,  wrapWidth: undefined, ori: 0,
     color: new util.Color('white'),  opacity: 1,
     depth: 0.0 
   });
@@ -394,7 +394,7 @@ function experimentInit() {
     text: 'Click on the card on the left to see a word pair. Then click on the card to the right to choose what to do with that word pair.',
     font: 'Arial',
     units: undefined, 
-    pos: [(- 0.3), 0.6], height: 0.1,  wrapWidth: undefined, ori: 0,
+    pos: [(- 0.3), 0.6], height: 0.2,  wrapWidth: undefined, ori: 0,
     color: new util.Color('white'),  opacity: 1,
     depth: -9.0 
   });
@@ -514,7 +514,7 @@ function experimentInit() {
     text: 'For the study trials, you will see the English-Swahili translations one at a time. When you are ready to move on to the next trial, press "enter".',
     font: 'Arial',
     units: undefined, 
-    pos: [0, 0], height: 0.1,  wrapWidth: undefined, ori: 0,
+    pos: [0, 0], height: 0.2,  wrapWidth: undefined, ori: 0,
     color: new util.Color('white'),  opacity: 1,
     depth: -1.0 
   });
@@ -553,7 +553,7 @@ function experimentInit() {
     text: 'For the test trials, please type in the Swahili translation for the English word. Select "enter" to move on to the next trial.',
     font: 'Arial',
     units: undefined, 
-    pos: [0, 0], height: 0.1,  wrapWidth: undefined, ori: 0,
+    pos: [0, 0], height: 0.2,  wrapWidth: undefined, ori: 0,
     color: new util.Color('white'),  opacity: 1,
     depth: -1.0 
   });
