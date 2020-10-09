@@ -514,7 +514,7 @@ function experimentInit() {
     text: 'For the study trials, you will see the English-Swahili translations one at a time. When you are ready to move on to the next trial, press "enter".',
     font: 'Arial',
     units: undefined, 
-    pos: [0, 0], height: 0.2,  wrapWidth: undefined, ori: 0,
+    pos: [0, 0], height: 0.1,  wrapWidth: undefined, ori: 0,
     color: new util.Color('white'),  opacity: 1,
     depth: -1.0 
   });
