@@ -1,0 +1,26 @@
+condition,consent_key.keys,consent_key.rt,done_with_instructions.keys,done_with_instructions.rt,instr_loop.thisRepN,instr_loop.thisTrialN,instr_loop.thisN,instr_loop.thisIndex,instr_loop.ran,Student ID #,date,expName,psychopyVersion,OS,frameRate,instr_learning_key.keys,instr_learning_key.rt,card_gen_loop.thisRepN,card_gen_loop.thisTrialN,card_gen_loop.thisN,card_gen_loop.thisIndex,card_gen_loop.ran,swa,eng,choose_pile.x,choose_pile.y,choose_pile.leftButton,choose_pile.midButton,choose_pile.rightButton,choose_pile.time,choose_pile.clicked_name,choices.thisRepN,choices.thisTrialN,choices.thisN,choices.thisIndex,choices.ran
+2,return,11.178,return,15.024,0,0,0,0,1,W0001564332,2020-10-20_15h40.05.271,swahili,2020.2.4,MacIntel,60,,,,,,,,,,,,,,,,,,,,,
+,,,return,8.193,1,0,1,0,1,W0001564332,2020-10-20_15h40.05.271,swahili,2020.2.4,MacIntel,60,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,W0001564332,2020-10-20_15h40.05.271,swahili,2020.2.4,MacIntel,60,return,3.708,0,0,0,0,1,TAJIRI,MERCHANT,,,,,,,,,,,,
+,,,,,,,,,,W0001564332,2020-10-20_15h40.05.271,swahili,2020.2.4,MacIntel,60,,,0,1,1,1,1,KASUKU,PARROT,,,,,,,,,,,,
+,,,,,,,,,,W0001564332,2020-10-20_15h40.05.271,swahili,2020.2.4,MacIntel,60,,,0,2,2,2,1,FAHILI,BULL,,,,,,,,,,,,
+,,,,,,,,,,W0001564332,2020-10-20_15h40.05.271,swahili,2020.2.4,MacIntel,60,,,0,3,3,3,1,SAHANI,PLATE,,,,,,,,,,,,
+,,,,,,,,,,W0001564332,2020-10-20_15h40.05.271,swahili,2020.2.4,MacIntel,60,,,0,4,4,4,1,HAMIRA,YEAST,,,,,,,,,,,,
+,,,,,,,,,,W0001564332,2020-10-20_15h40.05.271,swahili,2020.2.4,MacIntel,60,,,0,5,5,5,1,LAWAMA,BLAME,,,,,,,,,,,,
+,,,,,,,,,,W0001564332,2020-10-20_15h40.05.271,swahili,2020.2.4,MacIntel,60,,,0,6,6,6,1,YAMINI,OATH,,,,,,,,,,,,
+,,,,,,,,,,W0001564332,2020-10-20_15h40.05.271,swahili,2020.2.4,MacIntel,60,,,0,7,7,7,1,NAFAKA,CORN,,,,,,,,,,,,
+,,,,,,,,,,W0001564332,2020-10-20_15h40.05.271,swahili,2020.2.4,MacIntel,60,,,0,8,8,8,1,UTENZI,POEM,,,,,,,,,,,,
+,,,,,,,,,,W0001564332,2020-10-20_15h40.05.271,swahili,2020.2.4,MacIntel,60,,,0,9,9,9,1,MSHONI,TAILOR,,,,,,,,,,,,
+,,,,,,,,,,W0001564332,2020-10-20_15h40.05.271,swahili,2020.2.4,MacIntel,60,,,0,10,10,10,1,JIBINI,CHEESE,,,,,,,,,,,,
+,,,,,,,,,,W0001564332,2020-10-20_15h40.05.271,swahili,2020.2.4,MacIntel,60,,,0,11,11,11,1,ZABIBU,GRAPES,,,,,,,,,,,,
+,,,,,,,,,,W0001564332,2020-10-20_15h40.05.271,swahili,2020.2.4,MacIntel,60,,,0,12,12,12,1,KABURI,GRAVE,,,,,,,,,,,,
+,,,,,,,,,,W0001564332,2020-10-20_15h40.05.271,swahili,2020.2.4,MacIntel,60,,,0,13,13,13,1,SAMADI,MANURE,,,,,,,,,,,,
+,,,,,,,,,,W0001564332,2020-10-20_15h40.05.271,swahili,2020.2.4,MacIntel,60,,,0,14,14,14,1,WAKILI,AGENT,,,,,,,,,,,,
+,,,,,,,,,,W0001564332,2020-10-20_15h40.05.271,swahili,2020.2.4,MacIntel,60,,,0,15,15,15,1,RUSHWA,BRIBE,,,,,,,,,,,,
+,,,,,,,,,,W0001564332,2020-10-20_15h40.05.271,swahili,2020.2.4,MacIntel,60,,,0,16,16,16,1,YATIMA,ORPHAN,,,,,,,,,,,,
+,,,,,,,,,,W0001564332,2020-10-20_15h40.05.271,swahili,2020.2.4,MacIntel,60,,,0,17,17,17,1,TALAKA,DIVORCE,,,,,,,,,,,,
+,,,,,,,,,,W0001564332,2020-10-20_15h40.05.271,swahili,2020.2.4,MacIntel,60,,,0,18,18,18,1,MASHUA,BOAT,,,,,,,,,,,,
+,,,,,,,,,,W0001564332,2020-10-20_15h40.05.271,swahili,2020.2.4,MacIntel,60,,,0,19,19,19,1,DAFINA,TREASURE,,,,,,,,,,,,
+,,,,,,,,,,W0001564332,2020-10-20_15h40.05.271,swahili,2020.2.4,MacIntel,60,,,,,,,,,,0.543318649,0.550408719,1,0,0,4.466,study_pile,0,0,0,0,1
+,,,,,,,,,,W0001564332,2020-10-20_15h40.05.271,swahili,2020.2.4,MacIntel,60,,,,,,,,,,0.543318649,0.550408719,1,0,0,0.815,study_pile,1,0,1,0,1
+,,,,,,,,,,W0001564332,2020-10-20_15h40.05.271,swahili,2020.2.4,MacIntel,60,,,,,,,,,,-0.37298091,-0.111716621,1,0,0,1.249,unsorted_card,2,0,2,0,1
